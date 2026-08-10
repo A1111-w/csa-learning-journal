@@ -23,7 +23,7 @@ CSA Official 是一个计算机协会官网和内部管理平台：
 | 阶段 | 主题 | 状态 |
 | --- | --- | --- |
 | Day 1 | 项目全景 | 已完成 |
-| Day 2 | 资源列表请求链路 | 待开始 |
+| Day 2 | 资源列表请求链路 | 已完成 |
 | Day 3 | 统一返回和异常 | 待开始 |
 | Day 4-6 | 登录、安全和权限 | 待开始 |
 | Day 7-11 | 业务模块 | 待开始 |
@@ -32,6 +32,7 @@ CSA Official 是一个计算机协会官网和内部管理平台：
 ## 当前记录
 
 - [Day 1：项目全景](learning-log/day-01-project-overview.md)
+- [Day 2：资源列表请求链路](learning-log/day-02-request-chain.md)
 - [CSA 项目全景图](notes/csa-project-map.md)
 
 ## 记录原则
